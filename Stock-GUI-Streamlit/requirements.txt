@@ -1,0 +1,11 @@
+streamlit==0.82.0
+pandas-datareader== 0.9.0
+matplotlib==3.1.1
+numpy==1.19.5
+tensorflow>=2.4.2
+scikit-learn==0.21.3
+pandas==0.25.1
+Keras==2.4.3
+pykalman==0.9.5
+PySimpleGUI==4.43.0
+plotly==4.13.0
