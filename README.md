@@ -1,4 +1,4 @@
-### Predicting closing stock prices of FAANG companies from May 2012 till March 2021 using Deep Learning models such as Long Short Term Memory (LSTM), Convolutional Neural Network(CNN), Recurrent Neural Networks (RNN) and Multilayer Perceptron (MLP). 
+### Predicting closing stock prices of FAANG companies from May 2012 till March 2021 using Deep Learning models such as Long Short Term Memory (LSTM), a Basic Artificial Neural Network(CNN), Recurrent Neural Networks (RNN), Multilayer Perceptron (MLP) and Autoencoder. 
 
 ---
 ### DATA SOURCES 
