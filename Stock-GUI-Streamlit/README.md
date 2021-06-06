@@ -49,4 +49,4 @@ The user can choose from the five Deep Learning algorithms – LSTM, MLP, RNN, B
 
 ## Additional Note
 
-The hyperparameters that we have used in our deep learning models show the best results for the Google Stock Price dataset that has been uploaded in the home page. The code works for any csv dataset but getting the best accuracy isn't assuared. 
+The hyperparameters that we have used in our deep learning models show the best results for the Google Stock Price dataset that has been uploaded in the home page. The code works for any csv dataset but getting the best accuracy isn't assured. 
