@@ -5,4 +5,9 @@
 <a href="https://www.kaggle.com/aayushmishra1512/faang-complete-stock-data">FAANG 2012 - 2020 dataset </a></br>
 <a href="https://www.kaggle.com/specter7/amazon-amzn-historical-stock-price-data">FAANG 2016 - May 2021 dataset </a></br>
 
+---
+### Streamlit GUI for the project can be found in the Stock-GUI-Streamlit folder
 
+---
+### Additional Note
+The hyperparameters that we have used in our deep learning models show the best results for the Google Stock Price dataset that has been uploaded here. The code works for any csv dataset but getting the best accuracy isn't assured.
