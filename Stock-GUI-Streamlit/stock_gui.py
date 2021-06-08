@@ -39,7 +39,10 @@ class stock_predict_DL:
         data = comp_df.filter(['Open'])
         dataset = data.values
         # We take 90% of the data for training and 10% for testing 
-        training_data_len = int(np.ceil( len(dataset) * 0.90 ))
+        st.subheader('How much percent of the data needs to be allocated for training?')
+        st.text('Default is set to 90')
+        perc_train = st.number_input('',step = 1,min_value=1, value = 90)
+        training_data_len = int(np.ceil( len(dataset) * (perc_train/100)))
         # We are scaling the open prices to the range(0,1)
         self.scaler = MinMaxScaler(feature_range=(0,1))
         scaled_data = self.scaler.fit_transform(dataset)
