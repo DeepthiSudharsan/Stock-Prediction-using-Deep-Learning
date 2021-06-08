@@ -7,18 +7,15 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 import numpy as np
-from keras.models import Sequential
-from keras.layers import LSTM,Dropout,Dense
 import tensorflow as tf
 from tensorflow.keras import regularizers
 from tensorflow.keras import datasets, layers, models
-from keras.models import Sequential
-from keras.layers import Dense, LSTM
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, LSTM,Dropout
 from sklearn.metrics import accuracy_score
 from tensorflow.keras import datasets, layers,models
 from tensorflow.keras.models import Model, load_model
 from tensorflow.keras.layers import Input, Dense, Activation,SimpleRNN
-import tensorflow as tf
 from sklearn.neural_network import MLPRegressor
 from sklearn import metrics
 tf.random.set_seed(7)
