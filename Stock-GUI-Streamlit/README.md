@@ -1,3 +1,7 @@
+This app has been deployed on streamlit. To view the app check the link below
+
+https://share.streamlit.io/deepthisudharsan/stock-prediction-using-deep-learning/main/Stock-GUI-Streamlit/stock_gui.py
+
 ## Streamlit web app implementation of the project. 
 
 ## Pre-requisites :
