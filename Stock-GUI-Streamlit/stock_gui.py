@@ -27,7 +27,6 @@ option = st.radio('Radio', ["Upload the data (.csv format)","Get data from the n
 # creating a side bar 
 st.sidebar.title("Created By:")
 st.sidebar.subheader("Deepthi Sudharsan")
-st.sidebar.subheader("Meghna B Menon")
 # Adding an image from Unsplash to the side bar 
 st.sidebar.image("https://bit.ly/2RgH8BC", width=None)
 st.sidebar.markdown("Photo by Carlos Muza on Unsplash")
