@@ -7,7 +7,9 @@
 
 ---
 ### Streamlit GUI for the project can be found in the Stock-GUI-Streamlit folder
+This app has been deployed on streamlit. To view the app check the link below
 
+https://share.streamlit.io/deepthisudharsan/stock-prediction-using-deep-learning/main/Stock-GUI-Streamlit/stock_gui.py
 ---
 ### Additional Note
 The hyperparameters that we have used in our deep learning models show the best results for the Google Stock Price dataset that has been uploaded here. The code works for any csv dataset but getting the best accuracy isn't assured.
